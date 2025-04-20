@@ -1,0 +1,31 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+  
+h1 {
+    text-align: center;
+    padding: 20px;
+    margin-top: 20%;
+}
+  
+.container {
+    width: 30%;
+    margin: 20px auto;
+    border: 2px solid;
+    padding: 20px;
+    border-radius: 20px;
+    display: block;
+    text-align: center;
+}
+  
+#user-input {
+    padding: 3px;
+    margin: 10px;
+}
+  
+.buttons button {
+    padding: 5px 10px;
+    margin: 10px;
+}
